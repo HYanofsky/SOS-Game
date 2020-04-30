@@ -6,8 +6,6 @@ Spring 2019
 Write the SOS game that is playable by 2 players. More information can be found on: <a href="https://en.wikipedia.org/wiki/SOS_(game)">https://en.wikipedia.org/wiki/SOS_(game)</a>
 
 Include the following requirements:
-* The game should be split up into multiple files.
-* The game should be compiled using a makefile.
 * The game should have a game board of 5x5.
 * The number of SOS points should be counted per player.
 * The game ends when the entire board is filled and the winner is declared.
